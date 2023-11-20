@@ -7,6 +7,7 @@ bleach==6.0.0
 cargo==0.3
 certifi==2023.5.7
 contourpy==1.0.7
+coverage==7.3.2
 cssselect2==0.7.0
 cycler==0.11.0
 decorator==5.1.1

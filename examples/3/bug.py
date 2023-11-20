@@ -14,6 +14,7 @@ def entrypoint(s):
 
     if len(s) > 2 and s[2] == 'b':
         if len(s) > 3 and s[3] == 'a':
+            exit(220)
             if len(s) > 4 and s[4] == 'd':
                 if len(s) > 5 and s[5] == '!':
                     print(f"Found the bug after {x} loop iterations!")
